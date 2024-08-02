@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ridwan, a Frontend Software Engineer with four (4) years of experience specializing in building exceptional web applications, creating an interactive user experience, and making the web accessible to everyone.
+I'm Ridwan, a Frontend Software Engineer with five (5) years of experience specializing in building exceptional web applications, creating an interactive user experience, and making the web accessible to everyone.
 
 I am well skilled in using tools like React, Next JS, Typescript, Javascript, HTML & Css, and Sass for building frontend applications, and tools like Webpack, AWS, Netlify, Vercel for bundling and deployment of applications.
 
